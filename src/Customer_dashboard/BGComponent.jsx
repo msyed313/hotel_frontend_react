@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Header from './header';
+import Header from './Header';
 import { useLocation } from 'react-router-dom';
 function BGComponent() {
     const location = useLocation();
